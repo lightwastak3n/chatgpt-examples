@@ -57,7 +57,7 @@ This is for newer articles so it definitely didn't train on them.
  
 Prompt: `...Explain in simpler terms`
 
-Not sure about [this physics article](scientific_article1.png). It looks simplified but it also reads like a summary.
+Not sure about [this physics article](text/scientific_article1.png). It looks simplified but it also reads like a summary.
 
 
 ## Issues
