@@ -39,26 +39,26 @@ Prompt: `Calculate price per minute of these 2 plans ...`
 
 Output: [Midjourney plans pricing](text/text_analysis.png)
 
-### Text editing
-Prompt: `Write similar article but for iPhone` 
-
-This produced [basically the same article](text/similar_for_iphone.png) but it realized that iPhone means switching from Google to Apple. It still kept some Google stuff.
-
-So I adjusted the prompt to: `Write it for iPhone but introduce a different feature and don't mention google lens`
-
-And now we get a [different article](text/iphone_different_feature.png) completely adjusted for iPhone.
-
 ### Summarizing text
 Prompt: `Summarize this text...`
 
 Output: [Summary of article](text/text_summary.png)
+
+### Text editing
+Prompt: `Write similar article but for iPhone` 
+
+This produced [basically the same article](text/similar_article_fail.png) but it realized that iPhone means switching from Google to Apple. It still kept some Google stuff.
+
+So I adjusted the prompt to: `Write it for iPhone but introduce a different feature and don't mention google lens`
+
+And now we get a [different article](text/write_article_based_on_article) completely adjusted for iPhone.
 
 ### Explaining scientific articles
 This is for newer articles so it definitely didn't train on them.
  
 Prompt: `...Explain in simpler terms`
 
-Not sure about [this physics article](text/scientific_article1.png). It looks simplified but it also reads like a summary.
+Not sure about [this physics article](text/simplify_scientific_article.png). It looks simplified but it also reads like a summary.
 
 
 ## Issues

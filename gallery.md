@@ -1,9 +1,10 @@
 # Gallery
 ## Text
-!()[text/iphone_different_feature.png]
-!()[text/new_scientific_article_summary.png]
-!()[text/scientific_article1.png]
-!()[text/similar_for_iphone.png]
-!()[text/text_analysis.png]
-!()[text/text_summary.png]
-!()[text/write_article_from_article.png]
+![](text/text_analysis.png)
+![](text/text_summary.png)
+![](text/similar_article_fail.png)
+![](text/write_article_based_on_article.png)
+![](text/simplify_scientific_article.png)
+
+
+
