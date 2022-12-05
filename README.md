@@ -1,6 +1,8 @@
 # ChatGPT examples
 Some prompts and ChatGPT responses that I found interesting.
 
+If you just want to see text prompts and respones here's a makeshift [Gallery](gallery.md)
+
 ## Development
 ### Pong in Python
 Prompt: `Write pong in Python`
@@ -33,12 +35,11 @@ Result: This is very similar to the example above so the code is basically the s
 It's a text model so logically it does really good on this.
 
 ### Analyze text
-Prompt: `Calculate price per minute of these 2 plans ...'
+Prompt: `Calculate price per minute of these 2 plans ...`
 
 Output: [Midjourney plans pricing](text/text_analysis.png)
 
 ### Text editing
-
 Prompt: `Write similar article but for iPhone` 
 
 This produced [basically the same article](text/similar_for_iphone.png) but it realized that iPhone means switching from Google to Apple. It still kept some Google stuff.
